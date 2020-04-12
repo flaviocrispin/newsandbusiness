@@ -1,5 +1,5 @@
 # newsandbusiness
-Crawler de notícias do site bem estar sobre covid e análise dessas ntotícias em relação a algumas ações da bolsa de valores
+Crawler de notícias do site bem estar sobre covid e análise dessas ntotícias em relação a algumas ações da bolsa de valores\n
 arquivo cotahist.csv são as cotações de todas as ações da ibovespa de 02/01/2020 até 01/04/2020
 arquivo emp_bolsa são os nomes das empresas da ibovespa por setores e subsetores
 news_covid_g1 é o crawler do site bem estar do G1 sobre covid-19
